@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "titulo": "Evento 1",
+      "descripcion": "Aprende nuestra metodologia para generar un plan de marketing de contenidos",
+      "imagen": "http://archivo.elsalvador.com/noticias/2003/06/25/nacional/COVER.JPG"
+    },
+    {
+      "titulo": "La Magia de las Campañas dirigidas",
+      "descripcion": "Tus ventas estan por el suelo?, entonces este articulo es para ti",
+      "imagen": "/img/social2.png"
+    },
+    {
+      "titulo": "Posicionar tu marca con contenido audiovisual",
+      "descripcion": "El objetivo de esta guia es desvelarte los secretos para el posicionamiento con videos ilustrativos",
+      "imagen": "/img/social3.png"
+    },
+    {
+      "titulo": "Como Crear un Plan de Email Marketing?",
+      "descripcion": "Descubre la importancia de capturar la informacion de aquellos usuarios que pueden ser tus futuros clientes",
+      "imagen": "/img/social4.png"
+    },
+    {
+      "titulo": "La importancia de una buena imagen de presentacion",
+      "descripcion": "En este post explicaremos los resultados que arrojo un experimento de un post con imagen de presentacion y otro sin ella",
+      "imagen": "/img/social5.png"
+    },
+    {
+      "titulo": "Y tu?, Ya creaste el plan de Marketing para este 2015?",
+      "descripcion": "Hoy veremos los pasos de una metologia para orquestar todas los factores que influyen en el exito de una startup digital",
+      "imagen": "/img/social6.png"
+    },
+    {
+      "titulo": "Del por que un diseño Responsive aumentara en un 30% tus visitas",
+      "descripcion": "Entra y descrubre el poder del diseño Responsive para explotar tendencias moviles",
+      "imagen": "/img/social7.png"
+    },
+    {
+      "titulo": "Generar ingresos pasivos con segmentacion extrema",
+      "descripcion": "Monetiza tus talentos y habilidades con la mejor orientacion del publico que te sigue",
+      "imagen": "/img/social8.png"
+    }
+  ]
+}
